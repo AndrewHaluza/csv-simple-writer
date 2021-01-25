@@ -1,0 +1,27 @@
+{
+  "name": "csv-simple-writer",
+  "version": "1.0.0",
+  "description": "lightweight csv writer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewHaluza/csv-simple-writer.git"
+  },
+  "keywords": [
+    "csv",
+    "writer",
+    "files",
+    "csv-writer",
+    "spreadsheet",
+    "excel"
+  ],
+  "author": "Andrew Haluza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewHaluza/csv-simple-writer/issues"
+  },
+  "homepage": "https://github.com/AndrewHaluza/csv-simple-writer#readme"
+}
